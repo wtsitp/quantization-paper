@@ -12,3 +12,6 @@
 ## 混合精度
 
 # 稀疏
+
+# 模型搜索
+（DeepMind-2017）Population Based Training of Neural Networks
